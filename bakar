@@ -1,0 +1,18 @@
+<div class="bg-transparent flex px-[30px] pt-[30px] justify-between w-full h-[90px]">
+            <div class="flex mt-[10px]">
+                <img class="w-[30px] h-[32px] mt-[2px]" src="images/logo.png" alt="">
+                <h1 class="font-bold text-[25px] ml-[5px]"> Bakar<span class="text-[#3498DB]">Gadgets</span> </h1>
+            </div>
+            <ul class="flex gap-[20px] text-[20px] font-semibold mt-[15px]">
+                <li class="hover:text-[#3498DB] hover:font-bold"> Home </li>
+                <li class="hover:text-[#3498DB] hover:font-bold"> About </li>
+                <li class="hover:text-[#3498DB] hover:font-bold"> Product</li>
+                <li class="hover:text-[#3498DB] hover:font-bold"> Contact </li>
+            </ul>
+            <div>
+                <i class="fa-solid  fa-magnifying-glass hover:text-[#3498DB] text-[25px]"></i>
+                <i class="fa-solid fa-cart-shopping hover:text-[#3498DB] ml-[10px] text-[25px]"></i>
+                <button class="w-[150px] hover:bg-black hover:text-white  ml-[10px] text-[18px] font-semibold text-white rounded-[10px] h-[50px] bg-[#3498DB]"> Get Started </button>
+            </div>
+
+        </div>
